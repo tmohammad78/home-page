@@ -1,3 +1,4 @@
+@import url(fontiran.css);
 /*nav ul li {
     display: inline-block;
 }*/
@@ -6,6 +7,7 @@
     src: url("../bnazanin.tff");
     font-weight: bold;
 }*/
+
 .navbar-default{
     /*    background-color: #FE9484;
         background: -webkit-linear-gradient(to bottom, #FE9484, #FE7DA6);;*/
